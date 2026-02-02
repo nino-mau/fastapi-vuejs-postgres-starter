@@ -4,6 +4,12 @@ A minimal full-stack devlopment starter with FastAPI backend, Nuxt/Bun frontend.
 
 ## Quick Start
 
+Create and fill the .env from the .env.example
+
+```bash
+cp .env.example .env
+```
+
 ### Without Docker
 
 ```bash
